@@ -1,41 +1,11 @@
 Estructura proyecto
 
-/botica-inventario
-├── backend
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── config
-│   └── server.js
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── pages
-│   │   ├── services (API calls)
-│   │   ├── App.js
-│   │   └── index.js
-├── .env
-├── package.json
-└── README.md
+![Opera Captura de pantalla_2025-05-24_183830_chatgpt com](https://github.com/user-attachments/assets/9ad1d58b-e707-4cfb-ac61-c1471347c088)
+
 
 Estructura backend
 
-/backend
-├── controllers
-│   ├── productController.js
-│   └── saleController.js
-├── models
-│   ├── index.js
-│   ├── product.js
-│   └── sale.js
-├── routes
-│   ├── productRoutes.js
-│   └── saleRoutes.js
-├── config
-│   └── database.js
-├── .env
-├── server.js
-└── package.json
+![Opera Captura de pantalla_2025-05-24_183932_chatgpt com](https://github.com/user-attachments/assets/3e5c3e56-41c5-4759-8842-042a95253820)
 
 
 Pasos backend
@@ -51,17 +21,8 @@ npx nodemon server.js
 
 Estructura frontend
 
-/src
-├── components
-│   ├── ProductList.js
-│   └── ProductForm.js
-├── pages
-│   ├── ProductsPage.js
-│   └── SalesPage.js
-├── services
-│   └── api.js
-├── App.js
-└── index.js
+![Opera Captura de pantalla_2025-05-24_184046_chatgpt com](https://github.com/user-attachments/assets/a1526311-7036-4508-be66-b8df21e3bebd)
+
 
 Pasos frontend
 
