@@ -11,10 +11,15 @@ Estructura backend
 Pasos backend
 
 cd ruta/donde/quieres/el/proyecto
+
 mkdir backend
+
 cd backend
+
 npm init -y
+
 npm install express mysql2 sequelize cors dotenv
+
 npm install --save-dev nodemon
 
 npx nodemon server.js
